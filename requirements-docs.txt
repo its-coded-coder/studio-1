@@ -44,7 +44,7 @@ pathtools==0.1.2
     #   watchdog
 port-for==0.3.1
     # via sphinx-autobuild
-pygments==2.7.4
+pygments==2.15.0
     # via sphinx
 pytz==2022.1
     # via
@@ -84,7 +84,7 @@ tornado==6.0.4
     # via
     #   livereload
     #   sphinx-autobuild
-urllib3==1.26.5
+urllib3==1.26.14
     # via
     #   -c requirements.txt
     #   requests
